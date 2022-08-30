@@ -1,6 +1,6 @@
 AUTHOR = 'Filipa Calado'
 SITENAME = 'Coding Natural Language Fall 2022'
-SITEURL = ''
+SITEURL = 'https://gofilipa.github.io/cnl-fall-22'
 
 PATH = 'content'
 
