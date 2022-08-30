@@ -35,14 +35,13 @@ DEFAULT_PAGINATION = 10
 
 ## Customizing the navbar
 
-# DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 
 # MENUITEMS = (
-#     ('Syllabus', '/pages/syllabus.html'),
 #     ('Course Schedule', 'cnl-fall-22/pages/course_schedule.html'),
+#     ('Syllabus', '/pages/syllabus.html'),
 #     ('Homework', '/pages/homework.html'),
-#     ('Submit Homework', 'https://drive.google.com/drive/folders/1zukMmnzy3XW3zuz7o6UQL2wRtaV2UBkk?usp=sharing'),
 #     ('Class Notes', 'https://docs.google.com/document/d/1LYqjvlBocqFYnEMH3uzXE6r_WK2KfaDFB8swgh33K9M/edit?usp=sharing')
 #     )
 

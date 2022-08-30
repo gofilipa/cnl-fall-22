@@ -37,9 +37,7 @@ Rather than using Canvas this semester we will be using a Github site as a cours
 
 [https://www.bit.ly/cnl-fall-22](https://www.bit.ly/cnl-fall-22)
 
-You will primarily be using Google Docs and Google Drive to submit your project work and reading responses:
-
-[https://drive.google.com/drive/folders/1zukMmnzy3XW3zuz7o6UQL2wRtaV2UBkk?usp=sharing](https://drive.google.com/drive/folders/1zukMmnzy3XW3zuz7o6UQL2wRtaV2UBkk?usp=sharing)
+You will only be using the Canvas Course Site to submit your project work, reading responses, and coding homework.
 
 Please check this site as well as your `@newschool.edu` email regularly for any course announcements, possibly including last minute updates.
 
