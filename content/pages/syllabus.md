@@ -53,7 +53,7 @@ There will typically be about 20-40 pages of reading in preparation for each wee
 
 *Reading Responses:*
 
-On weeks that you have a *Reading Response* due, you will submit a short reading response (approximately 300 words, or 1 full page) due on Tuesday night at 8pm, the evening before class. You will submit these in a shared Google Drive folder, linked from the class website.
+On weeks that you have a *Reading Response* due, you will submit a short reading response (approximately 300 words, or 1 full page) due on Tuesday night at midnight. You will submit these in a shared Google Drive folder, linked from the class website.
 
 For this assignment, choose one moment from the reading that struck you in some way. What did you find compelling about this moment? How might it relate to our class readings or discussions? How does it deepen your thinking about coding or language?
 

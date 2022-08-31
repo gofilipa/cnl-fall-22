@@ -46,3 +46,5 @@ DISPLAY_PAGES_ON_MENU = True
 #     )
 
 LANDING_PAGE_TITLE = "Welcome to " + SITENAME
+
+STATIC_PATHS = ['images', 'pdfs']
