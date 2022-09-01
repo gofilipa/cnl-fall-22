@@ -11,4 +11,4 @@ This is the course site for Coding Natural Language, Fall 2022 at the Eugene Lan
 
 Use the above navigation bar to learn more information about course readings and assignments. 
 
-![yellow wave](/images/yellow_wave.jpg)
+![yellow wave]({static}/images/yellow_wave.jpg)
