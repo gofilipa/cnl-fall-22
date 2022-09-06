@@ -39,6 +39,8 @@ Rather than using Canvas this semester we will be using a Github site as a cours
 
 You will only be using the Canvas Course Site to submit your project work, reading responses, and coding homework.
 
+Download a [Word document of this syllabus]({static}/readings/syllabus.docx)
+
 Please check this site as well as your `@newschool.edu` email regularly for any course announcements, possibly including last minute updates.
 
 ## Course Structure

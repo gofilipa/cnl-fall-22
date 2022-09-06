@@ -52,7 +52,7 @@ The square of 11 is 121.
 
 ## “Haunted House” homework - September 28
 
-Expand the haunted house game [in this file](./haunted.py). You might add another door, or create more rooms beyond the existing ones. 
+Expand the haunted house game [in this file]({static}/haunted.py). You might add another door, or create more rooms beyond the existing ones. 
 
 *Bonus: Read up on Python "while loops" and incorporate this loop into your game. This loop will allow you to stay longer in certain rooms, and add more options for responding to the prompt for those rooms.*
 <br/><br/>
