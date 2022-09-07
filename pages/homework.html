@@ -29,10 +29,37 @@
 <p>On weeks where you do not have a Reading Response, you will have coding homework. These are short coding challenges based on the previous class instruction. You will not be graded on how well you code, but on your engagement and attempt at the challenge. That being said, these assignments will also offer opportunities for you to customize, extend, or go further with your solutions, which is entirely up to you.</p>
 <p>If you run up against obstacles, remember that errors are our friends. They often offer us clues for debugging. In the case that you are really stuck, do not be discouraged, but think of it as an opportunity to bring up for class discussion. To reiterate, you will be graded on making the attempt, not on being "correct."
 <br/><br/></p>
-<h2>“Functions” homework - September 14</h2>
-<p>Write a function that prints hello to a specific person's name. First, define the function, then call it using the desired parameter.</p>
-<p><em>Hint: your print statement will need to use string interpolation. We did this in Lesson 3: Variables”</em>
-<br/><br/></p>
+<h2>“Errors” homework - September 14</h2>
+<p>As you experiment on the Python interpreter, create four errors: two syntax errors and two traceback errors. For each error, explain the error in your own words. Then, debug the error, providing a corrected expression. When trying to understand the error, remember to pay special attention to the caret and error message.</p>
+<p>Be sure to explain the use of specialied terms or language (like <code>EOL</code> or <code>literal</code>) in your explanation. See below for example responses, and check <a href="https://curriculum.dhinstitutes.org/workshops/python/lessons/?page=5">this page for a refresher on errors in Python</a>. </p>
+<p>Copy and paste your code into a Word document, where you will type your explanations and solutions (the formatting when you copy/paste may be a bit wonky, but don't worry about it). </p>
+<h3>Error #1</h3>
+<div class="highlight"><pre><span></span><code><span class="go">&gt;&gt;&gt; %greeting = &quot;Hello World&quot;</span>
+<span class="go">  File &quot;&lt;stdin&gt;&quot;, line 1</span>
+<span class="gp">    %</span><span class="nv">greeting</span> <span class="o">=</span> <span class="s2">&quot;Hello World&quot;</span>
+<span class="go">    ^</span>
+<span class="go">SyntaxError: invalid syntax</span>
+</code></pre></div>
+
+<p>Explanation: The syntax error occured because the expression begins with a special character. Python only allows variables to begin with letters, not special characters or numbers.</p>
+<p>Solution:</p>
+<div class="highlight"><pre><span></span><code><span class="go">greeting = &quot;Hello World&quot;</span>
+</code></pre></div>
+
+<h3>Error #2</h3>
+<div class="highlight"><pre><span></span><code><span class="go">&gt;&gt;&gt; greeting = &quot;hello&quot; + 1</span>
+<span class="go">Traceback (most recent call last):</span>
+<span class="go">  File &quot;&lt;stdin&gt;&quot;, line 1, in &lt;module&gt;</span>
+<span class="go">TypeError: can only concatenate str (not &quot;int&quot;) to str</span>
+</code></pre></div>
+
+<p>Explanation: Different data types like a string and an integer cannot be added (or "concatenated") together. Python can only add two of the same data type.</p>
+<p>Solution:</p>
+<div class="highlight"><pre><span></span><code><span class="go">&gt;&gt;&gt; greeting = &quot;hello&quot; + &quot; goodbye&quot;</span>
+<span class="go">hello goodbye</span>
+</code></pre></div>
+
+<p><br/><br/></p>
 <h2>“Loops” homework - September 21</h2>
 <p>Here’s a list of numbers:</p>
 <div class="highlight"><pre><span></span><code>prime_numbers = [2, 3, 5, 7, 11]
@@ -49,7 +76,7 @@ The square of 11 is 121.
 
 <p><br/><br/></p>
 <h2>“Haunted House” homework - September 28</h2>
-<p>Expand the haunted house game <a href="./haunted.py">in this file</a>. You might add another door, or create more rooms beyond the existing ones. </p>
+<p>Expand the haunted house game <a href="https://gofilipa.github.io/cnl-fall-22/readings/haunted.py">in this file</a>. You might add another door, or create more rooms beyond the existing ones. </p>
 <p><em>Bonus: Read up on Python "while loops" and incorporate this loop into your game. This loop will allow you to stay longer in certain rooms, and add more options for responding to the prompt for those rooms.</em>
 <br/><br/></p>
 <h2>"Frequency Distribution" homework - October 19</h2>
