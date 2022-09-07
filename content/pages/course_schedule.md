@@ -13,11 +13,11 @@ Summary: Course Schedule of Readings and Assignments
 |:----------|:-----|:-----------|:-----------|
 | **Unit 1: Python Basics**|
 | August 31 | Syllabus review & Installations; Play *[GPT-2](https://transformer.huggingface.co/doc/gpt2-large)* |
-| September 7 | Lessons 1-4 in "[Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)" | Alan Turing, "[Computing Machinery and Intelligence]({static}/readings/Turing_ComputingMachineryIntelligence.pdf)"; Play *[ELIZA](https://web.njit.edu/~ronkowit/eliza.html)* | Reading Response |
-| September 14 | Lessons 5-9 in “Introduction to Python” | Steven Johnson, “[A.I. Is Mastering Language. Should We Trust What It Says?]({static}/readings/Johnson_MasteringLanguage.pdf)”; Play *[NovelAI](https://novelai.net/)* | "Functions" homework |
-| September 21 | Lessons 10-14 in “Introduction to Python | Ruha Benjamin, “[Introduction]({static}/readings/Benjamin_RaceAfterTech.pdf)” from Race after Technology: Abolitionist Tools for the New Jim Code | “Loops” homework |
+| September 7 | Lessons 1-6 in "[Introduction to Python](https://curriculum.dhinstitutes.org/workshops/python/)" | Alan Turing, "[Computing Machinery and Intelligence]({static}/readings/Turing_ComputingMachineryIntelligence.pdf)"; Play *[ELIZA](https://web.njit.edu/~ronkowit/eliza.html)* | Reading Response |
+| September 14 | Lessons 7-10 in “Introduction to Python” | Donna Haraway, “[A Cyborg Manifesto]({static}/readings/Haraway_Cyborg.pdf)”; Play *[NovelAI](https://novelai.net/)* | "Functions" homework |
+| September 21 | Lessons 11-14 in “Introduction to Python | Ruha Benjamin, “[Introduction]({static}/readings/Benjamin_RaceAfterTech.pdf)” from Race after Technology: Abolitionist Tools for the New Jim Code | “Loops” homework |
 | **Unit 2: Text Analysis** | 
-|September 28 | [Intro to Natural Language ToolKit](https://realpython.com/nltk-nlp-python/) (NLTK) | Ted Underwood, “[Seven Ways Humanists are Using Computers to Understand Text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)"; Play [Voyant-Tools](https://voyant-tools.org/) | “Haunted House” homework |
+|September 28 | [Intro to Natural Language ToolKit](https://realpython.com/nltk-nlp-python/) (NLTK) | Ted Underwood, “[Seven Ways Humanists are Using Computers to Understand Text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)" [Chapter 1 from NLTK book]({static}/readings/NLTK_python.pdf); Play [Voyant-Tools](https://voyant-tools.org/) | “Haunted House” homework |
 | October 5 | NLTK lessons cont	| Lauren Klein, "[Distant Reading After Moretti](https://arcade.stanford.edu/blogs/distant-reading-after-moretti)" | Reading Response |
 | **Unit 3: Text Parsing** | 
 |October 12 | Intro to [parsing with Beautiful Soup 4](https://github.com/gofilipa/bs4_workshop) (bs4) | Ted Chiang, "[Understand]({static}/readings/Chiang_Understand.pdf)" | Reading Response |

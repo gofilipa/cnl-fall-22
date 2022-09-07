@@ -22,11 +22,45 @@ On weeks where you do not have a Reading Response, you will have coding homework
 If you run up against obstacles, remember that errors are our friends. They often offer us clues for debugging. In the case that you are really stuck, do not be discouraged, but think of it as an opportunity to bring up for class discussion. To reiterate, you will be graded on making the attempt, not on being "correct."
 <br/><br/>
 
-## “Functions” homework - September 14
+## “Errors” homework - September 14
+As you experiment on the Python interpreter, create four errors: two syntax errors and two traceback errors. For each error, explain the error in your own words. Then, debug the error, providing a corrected expression. When trying to understand the error, remember to pay special attention to the caret and error message.
 
-Write a function that prints hello to a specific person's name. First, define the function, then call it using the desired parameter.
+Be sure to explain the use of specialied terms or language (like `EOL` or `literal`) in your explanation. See below for example responses, and check [this page for a refresher on errors in Python](https://curriculum.dhinstitutes.org/workshops/python/lessons/?page=5). 
 
-*Hint: your print statement will need to use string interpolation. We did this in Lesson 3: Variables”*
+Copy and paste your code into a Word document, where you will type your explanations and solutions (the formatting when you copy/paste may be a bit wonky, but don't worry about it). 
+
+### Error #1
+```console
+>>> %greeting = "Hello World"
+  File "<stdin>", line 1
+    %greeting = "Hello World"
+    ^
+SyntaxError: invalid syntax
+```
+Explanation: The syntax error occured because the expression begins with a special character. Python only allows variables to begin with letters, not special characters or numbers.
+
+Solution:
+```console
+greeting = "Hello World"
+```
+
+### Error #2
+```console
+>>> greeting = "hello" + 1
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: can only concatenate str (not "int") to str
+```
+
+Explanation: Different data types like a string and an integer cannot be added (or "concatenated") together. Python can only add two of the same data type.
+
+Solution:
+```console
+>>> greeting = "hello" + " goodbye"
+hello goodbye
+```
+
+
 <br/><br/>
 
 ## “Loops” homework - September 21
@@ -52,7 +86,7 @@ The square of 11 is 121.
 
 ## “Haunted House” homework - September 28
 
-Expand the haunted house game [in this file]({static}/haunted.py). You might add another door, or create more rooms beyond the existing ones. 
+Expand the haunted house game [in this file]({static}/readings/haunted.py). You might add another door, or create more rooms beyond the existing ones. 
 
 *Bonus: Read up on Python "while loops" and incorporate this loop into your game. This loop will allow you to stay longer in certain rooms, and add more options for responding to the prompt for those rooms.*
 <br/><br/>
