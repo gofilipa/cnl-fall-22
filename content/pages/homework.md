@@ -25,7 +25,7 @@ If you run up against obstacles, remember that errors are our friends. They ofte
 ## “Errors” homework - September 14
 As you experiment on the Python interpreter, create four errors: two syntax errors and two traceback errors. For each error, explain the error in your own words. Then, debug the error, providing a corrected expression. When trying to understand the error, remember to pay special attention to the caret and error message.
 
-Be sure to explain the use of specialied terms or language (like `EOL` or `literal`) in your explanation. See below for example responses, and check [this page for a refresher on errors in Python](https://curriculum.dhinstitutes.org/workshops/python/lessons/?page=5). 
+Be sure to define the specialized terms or language (like `EOL` or `literal`) in your explanation. See below for example responses, and check [this page for a refresher on errors in Python](https://curriculum.dhinstitutes.org/workshops/python/lessons/?page=5). 
 
 Copy and paste your code into a Word document, where you will type your explanations and solutions (the formatting when you copy/paste may be a bit wonky, but don't worry about it). 
 
