@@ -65,7 +65,11 @@ hello goodbye
 
 ## “Loops” homework - September 21
 
-Here’s a list of numbers:
+<!-- Create a list of your favorite quotes from Donna Haraway's article, "A Cyborg Manifesto." 
+
+Then, create a loop that prints each of these quotes, one by one. 
+
+Submit your file as a python file, with `.py` file extention.  -->
 
 ```
 prime_numbers = [2, 3, 5, 7, 11]
