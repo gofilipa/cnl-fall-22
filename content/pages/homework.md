@@ -63,30 +63,41 @@ hello goodbye
 
 <br/><br/>
 
-## “Loops” homework - September 21
+## "Functions" homework - September 21
 
-<!-- Create a list of your favorite quotes from Donna Haraway's article, "A Cyborg Manifesto." 
+For this assignment, you will use what you learned about functions and conditional statements to write some code that prints selected sentences from Donna Haraway's essay, "Cyborg Manifesto." Specifically, you will write a function which contains a conditional statement that checks for specific keywords, then prints out the quote associated with that keyword. If everything works correctly, when you call the function with a keyword, like "irony," the function will check the conditions and print out the quote ascribed to that keyword. Submit your file as a python file, with `.py` file extention. For some guidance, you can start by following the steps below.
 
-Then, create a loop that prints each of these quotes, one by one. 
+First, define the function, called `quote_haraway`, with a parameter called `keyword`. I use these specific names but you can use whatever terms you like.
 
-Submit your file as a python file, with `.py` file extention.  -->
-
+```python
+def quote_haraway(keyword):
+    [insert some code here] 
 ```
-prime_numbers = [2, 3, 5, 7, 11]
+
+Second, write a conditional statement that checks for a specific keyword, for example:
+
+```python
+def quote_haraway(keyword):
+  if keyword == "irony":
+    print("Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true.")
 ```
 
-Write some code to print out the square of each of these numbers. Remember that the square of a number is that number times itself.
+Third, at least two more conditions, based on keywords of your choosing. 
 
-Next, look up a new concept—"f-string" (a formatting technique for strings)—on Google and use it to write a loop that gives the following output:
+Fourth, enter some code at the bottom of the script that calls the function. For example: `quote_haraway(irony)`. The final produce should look like this, but expanded to include more conditions:
 
+```python
+def quote_haraway(keyword):
+  if keyword == "irony":
+    print("Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true.")
+    [add more conditions]
+
+quote_haraway(irony)
 ```
-The square of 2 is 4.
-The square of 3 is 9.
-The square of 5 is 25.
-The square of 7 is 49.
-The square of 11 is 121.
-```
-<br/><br/>
+
+BONUS: Expand your function by doing one or both of the following:
+- add a loop to one of your conditions, maybe that makes the sentence uppercase or lowercase (with `upper()` or `lower()`)
+- create a list of quotes at the top of the function, and use list indexing to pick out the relevant quote for each condition
 
 ## “Haunted House” homework - September 28
 
