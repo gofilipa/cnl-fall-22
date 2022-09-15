@@ -61,29 +61,31 @@
 
 <p><br/><br/></p>
 <h2>"Functions" homework - September 21</h2>
-<p>For this assignment, you will use what you learned about functions and conditional statements to write some code that prints some sentences from Donna Haraway's essay, "Cyborg Manifesto." You will write a function which contains a conditional statement that checks for specific keywords, then prints out the quote associated with that keyword. When you call the function, you enter a keyword, like "feminism" or "irony," which will help the function decide which quote to print out. Submit your file as a python file, with <code>.py</code> file extention. For some guidance, you can start by following the steps below.</p>
-<p>First, define the function with a parameter <code>keyword</code>. I will call this function <code>quote_haraway</code>, but you can name yours anything you like. </p>
+<p>For this assignment, you will use what you learned about functions and conditional statements to write some code that prints selected sentences from Donna Haraway's essay, "Cyborg Manifesto." Specifically, you will write a function which contains a conditional statement that checks for specific keywords, then prints out the quote associated with that keyword. If everything works correctly, when you call the function with a keyword, like "irony," the function will check the conditions and print out the quote ascribed to that keyword. Submit your file as a python file, with <code>.py</code> file extention. For some guidance, you can start by following the steps below.</p>
+<p>First, define the function, called <code>quote_haraway</code>, with a parameter called <code>keyword</code>. I use these specific names but you can use whatever terms you like.</p>
 <div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">quote_haraway</span><span class="p">(</span><span class="n">keyword</span><span class="p">):</span>
     <span class="p">[</span><span class="n">insert</span> <span class="n">some</span> <span class="n">code</span> <span class="n">here</span><span class="p">]</span> 
 </code></pre></div>
 
 <p>Second, write a conditional statement that checks for a specific keyword, for example:</p>
 <div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">quote_haraway</span><span class="p">(</span><span class="n">keyword</span><span class="p">):</span>
-    <span class="k">if</span> <span class="n">keyword</span> <span class="o">==</span> <span class="s2">&quot;irony&quot;</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true.&quot;</span><span class="p">)</span>
+  <span class="k">if</span> <span class="n">keyword</span> <span class="o">==</span> <span class="s2">&quot;irony&quot;</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true.&quot;</span><span class="p">)</span>
 </code></pre></div>
 
 <p>Third, at least two more conditions, based on keywords of your choosing. </p>
 <p>Fourth, enter some code at the bottom of the script that calls the function. For example: <code>quote_haraway(irony)</code>. The final produce should look like this, but expanded to include more conditions:</p>
 <div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">quote_haraway</span><span class="p">(</span><span class="n">keyword</span><span class="p">):</span>
-    <span class="k">if</span> <span class="n">keyword</span> <span class="o">==</span> <span class="s2">&quot;irony&quot;</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true.&quot;</span><span class="p">)</span>
+  <span class="k">if</span> <span class="n">keyword</span> <span class="o">==</span> <span class="s2">&quot;irony&quot;</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true.&quot;</span><span class="p">)</span>
     <span class="p">[</span><span class="n">add</span> <span class="n">more</span> <span class="n">conditions</span><span class="p">]</span>
 
 <span class="n">quote_haraway</span><span class="p">(</span><span class="n">irony</span><span class="p">)</span>
 </code></pre></div>
 
-<p><em>Bonus: Expand your function by adding a loop to one of your conditions, and/or create a list of quotes at the top of the function, and use list indexing to pick out the relevant quote for each condition</em></p>
+<p>BONUS: Expand your function by doing one or both of the following:
+- add a loop to one of your conditions, maybe that makes the sentence uppercase or lowercase (with <code>upper()</code> or <code>lower()</code>)
+- create a list of quotes at the top of the function, and use list indexing to pick out the relevant quote for each condition</p>
 <h2>“Haunted House” homework - September 28</h2>
 <p>Expand the haunted house game <a href="https://gofilipa.github.io/cnl-fall-22/readings/haunted.py">in this file</a>. You might add another door, or create more rooms beyond the existing ones. </p>
 <p><em>Bonus: Read up on Python "while loops" and incorporate this loop into your game. This loop will allow you to stay longer in certain rooms, and add more options for responding to the prompt for those rooms.</em>

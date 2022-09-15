@@ -92,21 +92,21 @@ def quote_haraway(keyword):
     print("Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true.")
     [add more conditions]
 
-quote_haraway(irony)
+quote_haraway("irony")
 ```
 
 BONUS: Expand your function by doing one or both of the following:
 - add a loop to one of your conditions, maybe that makes the sentence uppercase or lowercase (with `upper()` or `lower()`)
 - create a list of quotes at the top of the function, and use list indexing to pick out the relevant quote for each condition
 
-## “Haunted House” homework - September 28
+## “Haunted House” homework - October 5
 
 Expand the haunted house game [in this file]({static}/readings/haunted.py). You might add another door, or create more rooms beyond the existing ones. 
 
 *Bonus: Read up on Python "while loops" and incorporate this loop into your game. This loop will allow you to stay longer in certain rooms, and add more options for responding to the prompt for those rooms.*
 <br/><br/>
 
-## "Frequency Distribution" homework - October 19
+## "Frequency Distribution" homework - October 20
 
 Choose a text from the Project Gutenburg library that you've read before. 
 
@@ -115,6 +115,6 @@ First, clean the text, removing stopwords, punctuation, and stemming (and/or lem
 *Bonus: Write a short paragraph explaining how these results compare to your expectation from reading the book. Are you surprised? What else would you want to do with this text using NLTK?*
 <br/><br/>
 
-## “Lexicon and Parser” homework - November 2
+## “Lexicon and Parser” homework - November 9
 
 TBD
