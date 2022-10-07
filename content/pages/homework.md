@@ -99,18 +99,23 @@ BONUS: Expand your function by doing one or both of the following:
 - add a loop to one of your conditions, maybe that makes the sentence uppercase or lowercase (with `upper()` or `lower()`)
 - create a list of quotes at the top of the function, and use list indexing to pick out the relevant quote for each condition
 
-## “Haunted House” homework - October 5
+## “Haunted House” homework - September 28
 
 Expand the haunted house game [in this file]({static}/readings/haunted.py). You might add another door, or create more rooms beyond the existing ones. 
 
 *Bonus: Read up on Python "while loops" and incorporate this loop into your game. This loop will allow you to stay longer in certain rooms, and add more options for responding to the prompt for those rooms.*
 <br/><br/>
 
-## "Frequency Distribution" homework - October 20
+## "Text Cleaning" homework - October 19
 
-Choose a text from the Project Gutenburg library that you've read before. 
+Choose a text that you've read/seen before, maybe from the Project Gutenburg library. 
 
-First, clean the text, removing stopwords, punctuation, and stemming (and/or lemmatizing) the remaining words. Second, turn the text into an NLTK Text object. Finally, run two or three NLTK methods on the text.
+First, load up your text into a Jupyter notebook or Google Colab notebook. Use NLTK to clean the text by doing the following: remove stopwords, remove punctuation, and stem (and/or lemmatize) the words in the text.
+<br/><br/>
+
+## "Frequency Distribution" homework - October 26
+
+Get the text that you cleaned last week. First, turn the text into an NLTK Text object. Second, run 2 or 3 NLTK methods on the text. Then, using what you learned from your analysis so far, choose 3-5 words to create a Frequency Distribution. 
 
 *Bonus: Write a short paragraph explaining how these results compare to your expectation from reading the book. Are you surprised? What else would you want to do with this text using NLTK?*
 <br/><br/>
