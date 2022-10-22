@@ -23,9 +23,9 @@ Summary: Course Schedule of Readings and Assignments
 |October 19 | NLTK lessons cont | Aaron Reed, "[1976: Adventure](https://if50.substack.com/p/1976-adventure)"; Play *[Colossal Cave Adventure](http://rickadams.org/adventure/advent/)* |  "Text Cleaning" homework |
 | October 26 | NLTK lessons cont | Aaron Reed, "[2008: Violet](https://if50.substack.com/p/2008-violet)"; Play [*Violet*](https://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2FViolet.zblorb) by Jeremy Freese | None |
 | **Unit 3: Text Parsing** | 
-| November 2 | Text Parsing | Play: [*Counterfeit Monkey*](https://ifdb.org/viewgame?id=aearuuxv83plclpl) by Emily Short| “Frequency Distribution” homework |
-| November 9 | Text Parsing cont | TBD | None |
-| November 16 | Text Parsing cont | TBD | "Text Parsing" homework |
+| November 2 | Text Parsing | Ted Chiang, "[The Lifecycle of Software Objects]({static}/readings/Chiang_SoftwareObjects.pdf)", pages 1-36 | “Frequency Distribution” homework |
+| November 9 | Text Parsing cont | Ted Chiang, "[The Lifecycle of Software Objects]({static}/readings/Chiang_SoftwareObjects.pdf)", pages 36-78 | None |
+| November 16 | Text Parsing cont; Dr. Patrick Smyth | Play: [*Counterfeit Monkey*](https://ifdb.org/viewgame?id=aearuuxv83plclpl) by Emily Short | "Text Parsing" homework |
 | **Unit 4: Final Projects** |
 | November 30 | Workshops | Watch: "[The Illustrated Word2vec"](https://jalammar.github.io/illustrated-word2vec/) | Project proposal due|
 | December 7 | Workshops | Watch: "[How GPT-3 Works"](https://www.youtube.com/watch?v=MQnJZuBGmSQ) | None |

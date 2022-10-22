@@ -113,13 +113,13 @@ Choose a text that you've read/seen before, maybe from the Project Gutenburg lib
 First, load up your text into a Jupyter notebook or Google Colab notebook. Use NLTK to clean the text by doing the following: remove stopwords, remove punctuation, and stem (and/or lemmatize) the words in the text.
 <br/><br/>
 
-## "Frequency Distribution" homework - October 26
+## "Frequency Distribution" homework - November 9
 
 Get the text that you cleaned last week. First, turn the text into an NLTK Text object. Second, run 2 or 3 NLTK methods on the text. Then, using what you learned from your analysis so far, choose 3-5 words to create a Frequency Distribution. 
 
 *Bonus: Write a short paragraph explaining how these results compare to your expectation from reading the book. Are you surprised? What else would you want to do with this text using NLTK?*
 <br/><br/>
 
-## “Lexicon and Parser” homework - November 9
+## “Text Parsing” homework - November 16
 
 TBD
