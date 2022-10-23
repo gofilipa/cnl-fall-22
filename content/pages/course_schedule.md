@@ -20,15 +20,15 @@ Summary: Course Schedule of Readings and Assignments
 | **Unit 2: Text Analysis** | 
 | October 5 | Download and Install [Natural Language ToolKit (NLTK)](https://curriculum.dhinstitutes.org/installations/natural-language-toolkit/); Play [Voyant-Tools](https://voyant-tools.org/)| Ted Underwood, “[Seven Ways Humanists are Using Computers to Understand Text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)"; Lauren Klein, "[Distant Reading After Moretti](https://arcade.stanford.edu/blogs/distant-reading-after-moretti)" | Reading Response |
 | October 12 |[Intro to NLTK](https://realpython.com/nltk-nlp-python/)| Richard Jean So, Edwin Roland, "[Race and Distant Reading]({static}/readings/SoRoland_RaceDistantReading.pdf)" | Reading Response |
-|October 19 | NLTK lessons cont | Aaron Reed, "[1976: Adventure](https://if50.substack.com/p/1976-adventure)"; Play *[Colossal Cave Adventure](http://rickadams.org/adventure/advent/)* |  "Text Cleaning" homework |
+| October 19 | NLTK lessons cont | Aaron Reed, "[1976: Adventure](https://if50.substack.com/p/1976-adventure)"; Play *[Colossal Cave Adventure](http://rickadams.org/adventure/advent/)* |  "Text Cleaning" homework |
 | October 26 | NLTK lessons cont | Aaron Reed, "[2008: Violet](https://if50.substack.com/p/2008-violet)"; Play [*Violet*](https://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2FViolet.zblorb) by Jeremy Freese | None |
 | **Unit 3: Text Parsing** | 
-| November 2 | Text Parsing | Ted Chiang, "[The Lifecycle of Software Objects]({static}/readings/Chiang_SoftwareObjects.pdf)", pages 1-36 | “Frequency Distribution” homework |
-| November 9 | Text Parsing cont | Ted Chiang, "[The Lifecycle of Software Objects]({static}/readings/Chiang_SoftwareObjects.pdf)", pages 36-78 | None |
-| November 16 | Text Parsing cont; Dr. Patrick Smyth | Play: [*Counterfeit Monkey*](https://ifdb.org/viewgame?id=aearuuxv83plclpl) by Emily Short | "Text Parsing" homework |
+| November 2 | Text Parsing; Dr. Patrick Smyth on [The Garden](https://github.com/smythp/the_garden)| Play: [*Counterfeit Monkey*](https://ifdb.org/viewgame?id=aearuuxv83plclpl) by Emily Short | “Frequency Distribution” homework |
+| November 9 | Text Parsing cont | Watch: "[The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)"  | None |
+| November 16 | [Introduction to Transformers](https://colab.research.google.com/drive/17SEa305DE8cGnttxPHndxoyuLN3LscGh?usp=sharing) | Watch: "[How GPT3 Works](Watch: "The Illustrated Word2vec")" | "Text Parsing" homework
 | **Unit 4: Final Projects** |
-| November 30 | Workshops | Watch: "[The Illustrated Word2vec"](https://jalammar.github.io/illustrated-word2vec/) | Project proposal due|
-| December 7 | Workshops | Watch: "[How GPT-3 Works"](https://www.youtube.com/watch?v=MQnJZuBGmSQ) | None |
+| November 30 | Project Workshop | Ted Chiang, "[The Lifecycle of Software Objects]({static}/readings/Chiang_SoftwareObjects.pdf)", pages 1-36 | Proposals due | 
+| December 7 | Project Workshop | Ted Chiang, "[The Lifecycle of Software Objects]({static}/readings/Chiang_SoftwareObjects.pdf)", pages 36-78 | None |
 | December 14 | Presentations | None | Final Projects Due |
 
 
