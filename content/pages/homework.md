@@ -115,11 +115,7 @@ First, load up your text into a Jupyter notebook or Google Colab notebook. Use N
 
 ## "Frequency Distribution" homework - November 9
 
-Get the text that you cleaned last week. First, turn the text into an NLTK Text object. Second, run 2 or 3 NLTK methods on the text. Then, using what you learned from your analysis so far, choose 3-5 words to create a Frequency Distribution. 
+Get the text that you cleaned two weeks ago. First, turn the text into an NLTK Text object. Second, run 2 or 3 NLTK methods on the text. Then, using what you learned from your analysis so far, choose 3-5 words to create a Frequency Distribution. 
 
-*Bonus: Write a short paragraph explaining how these results compare to your expectation from reading the book. Are you surprised? What else would you want to do with this text using NLTK?*
+*Bonus: Write a short paragraph explaining how these results compare to your expectations, based on what you already know about the text. Are you surprised? What else would you want to do with this text using NLTK?*
 <br/><br/>
-
-## “Text Parsing” homework - November 16
-
-TBD
