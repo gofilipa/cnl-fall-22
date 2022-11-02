@@ -23,11 +23,12 @@ Summary: Course Schedule of Readings and Assignments
 | October 19 | NLTK lessons cont | Aaron Reed, "[1976: Adventure](https://if50.substack.com/p/1976-adventure)"; Play *[Colossal Cave Adventure](http://rickadams.org/adventure/advent/)* |  "Text Cleaning" homework |
 | November 2 | NLTK lessons cont | Aaron Reed, "[2008: Violet](https://if50.substack.com/p/2008-violet)"; Play [*Violet*](https://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2FViolet.zblorb) by Jeremy Freese | None |
 | **Unit 3: Text Parsing** | 
-| November 9 | Text Parsing; Dr. Patrick Smyth on [The Garden](https://github.com/smythp/the_garden)| Play: [*Counterfeit Monkey*](https://ifdb.org/viewgame?id=aearuuxv83plclpl) by Emily Short | “Frequency Distribution” homework |
-| November 16 | Text Parsing cont | Watch: "[The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)"  | None |
-| November 30 | [Introduction to Transformers](https://colab.research.google.com/drive/17SEa305DE8cGnttxPHndxoyuLN3LscGh?usp=sharing) | Watch: "[How GPT3 Works](Watch: "The Illustrated Word2vec")" | Project Proposals due |
+| November 9 | Text Parsing; Dr. Patrick Smyth on [The Garden](https://github.com/smythp/the_garden)| Play: [*Counterfeit Monkey*](https://ifdb.org/viewgame?id=aearuuxv83plclpl) by Emily Short | “Exploratory Text Analysis” homework |
+| November 16 | [Introduction to Transformers](https://colab.research.google.com/drive/17SEa305DE8cGnttxPHndxoyuLN3LscGh?usp=sharing) | Watch: "[The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)"; and optional: "[How GPT-3 Works](https://www.youtube.com/watch?v=MQnJZuBGmSQ)" | None |
+| November 16 | NO CLASS|  | Project proposals due |
+| November 30 | [Transformers](https://colab.research.google.com/drive/17SEa305DE8cGnttxPHndxoyuLN3LscGh?usp=sharing) continued | Pratyusha Kalluri, "[The Values of Machine Learning](https://slideslive.com/38923453/the-values-of-machine-learning)" | Bring Project Plan to class |
 | **Unit 4: Final Projects** |
-| December 7 | Project Workshop | Pratyusha Kalluri, "[The Values of Machine Learning](https://slideslive.com/38923453/the-values-of-machine-learning)" | None | 
+| December 7 | Project Workshop | None | Bring Work in Progress to class | 
 | December 14 |  Presentations | None | Final Projects Due |
 
 
