@@ -25,10 +25,10 @@ Summary: Course Schedule of Readings and Assignments
 | **Unit 3: Text Parsing** | 
 | November 9 | Text Parsing; Dr. Patrick Smyth on [The Garden](https://github.com/smythp/the_garden)| Play: [*Counterfeit Monkey*](https://ifdb.org/viewgame?id=aearuuxv83plclpl) by Emily Short | “Exploratory Text Analysis” homework |
 | November 16 | [Introduction to Transformers](https://colab.research.google.com/drive/17SEa305DE8cGnttxPHndxoyuLN3LscGh?usp=sharing) | Watch: "[The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)"; and optional: "[How GPT-3 Works](https://www.youtube.com/watch?v=MQnJZuBGmSQ)" | None |
-| November 16 | NO CLASS|  | Project proposals due |
-| November 30 | [Transformers](https://colab.research.google.com/drive/17SEa305DE8cGnttxPHndxoyuLN3LscGh?usp=sharing) continued | Pratyusha Kalluri, "[The Values of Machine Learning](https://slideslive.com/38923453/the-values-of-machine-learning)" | Bring Project Plan to class |
+| November 23 | NO CLASS|  | Project proposals due |
+| November 30 | [Transformers](https://colab.research.google.com/drive/17SEa305DE8cGnttxPHndxoyuLN3LscGh?usp=sharing) continued | Henrik Karlsson, "[Using GPT3 to augment human intelligence](https://escapingflatland.substack.com/p/gpt-3?utm_medium=email)" | Bring Project Plan to class |
 | **Unit 4: Final Projects** |
-| December 7 | Project Workshop | None | Bring Work in Progress to class | 
+| December 7 | Project Workshops | Pratyusha Kalluri, "[The Values of Machine Learning](https://slideslive.com/38923453/the-values-of-machine-learning)"  | Bring Work in Progress to class | 
 | December 14 |  Presentations | None | Final Projects Due |
 
 
